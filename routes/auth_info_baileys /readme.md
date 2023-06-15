@@ -1,3 +1,0 @@
-```
-Queen QR : DarkWinzo
-```
