@@ -21,7 +21,7 @@ app.use('/server', server)
 
 
 app.listen(PORT, () => {
-    console.log(`【﻿ＤＡＲＫＷＩＮＺＯ ＱＲ　ＡＰＩ】
+    console.log(`【﻿😈Maraya-MD Public😈】
 								 
  Server running on http://localhost:` + PORT)
 console.log(`RUNNING YOUR QR CODE`)
